@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    encrypted_jsonb (0.1.0)
+    encrypted_jsonb (0.1.2)
       pg (~> 1.5)
       rails (>= 8.0.0)
 
