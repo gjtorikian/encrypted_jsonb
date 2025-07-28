@@ -7,20 +7,32 @@ module EncryptedJsonb
   module Encryptable
     extend ActiveSupport::Concern
 
+    # Thread-safe storage for encrypted attributes per class
+    ENCRYPTED_ATTRIBUTES = Hash.new { |h, k| h[k] = {}.freeze }.freeze
+
     included do
-      class_attribute :encrypted_jsonb_attributes
-      self.encrypted_jsonb_attributes = {}
+      class << self
+        def encrypted_jsonb_attributes
+          ENCRYPTED_ATTRIBUTES[self]
+        end
+
+        def set_encrypted_jsonb_attribute(attribute, config)
+          ENCRYPTED_ATTRIBUTES[self] = ENCRYPTED_ATTRIBUTES[self].merge(attribute => config).freeze
+        end
+      end
     end
 
     class_methods do
       def encrypts_jsonb(*attributes)
         attributes.each do |attribute|
-          encrypted_jsonb_attributes[attribute] = {
+          config = {
             encryptor: JsonbEncryptor.new(
               primary_key: Rails.application.credentials.active_record_encryption.primary_key,
               deterministic_key: Rails.application.credentials.active_record_encryption.deterministic_key,
             ),
           }
+
+          set_encrypted_jsonb_attribute(attribute, config)
 
           # Define the attribute accessor
           define_method(attribute) do
