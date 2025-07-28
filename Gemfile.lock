@@ -285,8 +285,5 @@ DEPENDENCIES
   rubocop
   rubocop-standard
 
-RUBY VERSION
-   ruby 3.4.1p0
-
 BUNDLED WITH
    2.7.1
