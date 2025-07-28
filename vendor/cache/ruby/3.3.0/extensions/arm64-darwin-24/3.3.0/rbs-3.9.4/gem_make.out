@@ -1,0 +1,28 @@
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.3.0/gems/rbs-3.9.4/ext/rbs_extension
+/Users/gjtorikian/.rbenv/versions/3.3.6/bin/ruby extconf.rb
+checking for whether -std=gnu99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.3.0/gems/rbs-3.9.4/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20250728-33633-8jt83b sitelibdir\=./.gem.20250728-33633-8jt83b clean
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.3.0/gems/rbs-3.9.4/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20250728-33633-8jt83b sitelibdir\=./.gem.20250728-33633-8jt83b
+compiling ./../../src/constants.c
+compiling ./../../src/ruby_objs.c
+compiling ./../../src/util/rbs_constant_pool.c
+compiling lexer.c
+compiling lexstate.c
+compiling location.c
+compiling main.c
+compiling parser.c
+compiling parserstate.c
+compiling unescape.c
+linking shared-object rbs_extension.bundle
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.3.0/gems/rbs-3.9.4/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20250728-33633-8jt83b sitelibdir\=./.gem.20250728-33633-8jt83b install
+/opt/homebrew/bin/ginstall -c -m 0755 rbs_extension.bundle ./.gem.20250728-33633-8jt83b
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.3.0/gems/rbs-3.9.4/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20250728-33633-8jt83b sitelibdir\=./.gem.20250728-33633-8jt83b clean
