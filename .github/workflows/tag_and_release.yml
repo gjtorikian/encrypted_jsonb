@@ -11,6 +11,11 @@ on:
     types:
       - closed
 
+permissions:
+  actions: write
+  contents: write
+  pull-requests: write
+
 jobs:
   ruby:
     uses: yettoapp/actions/.github/workflows/ruby_gem_release.yml@main
