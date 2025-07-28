@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    encrypted_jsonb (0.0.1)
+    encrypted_jsonb (0.1.0)
       pg (~> 1.5)
       rails (>= 8.0.0)
 
@@ -298,6 +298,9 @@ DEPENDENCIES
   rake (~> 13.0)
   rubocop
   rubocop-standard
+
+RUBY VERSION
+   ruby 3.4.1p0
 
 BUNDLED WITH
    2.6.2
