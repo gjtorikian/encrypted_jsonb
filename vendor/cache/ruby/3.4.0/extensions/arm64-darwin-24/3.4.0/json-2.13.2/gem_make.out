@@ -10,16 +10,16 @@ checking for cpuid.h... no
 creating Makefile
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/json-2.13.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-sfn8mz sitelibdir\=./.gem.20250728-37947-sfn8mz clean
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-7v8jhj sitelibdir\=./.gem.20250728-47900-7v8jhj clean
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/json-2.13.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-sfn8mz sitelibdir\=./.gem.20250728-37947-sfn8mz
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-7v8jhj sitelibdir\=./.gem.20250728-47900-7v8jhj
 compiling parser.c
 linking shared-object json/ext/parser.bundle
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/json-2.13.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-sfn8mz sitelibdir\=./.gem.20250728-37947-sfn8mz install
-/opt/homebrew/bin/ginstall -c -m 0755 parser.bundle ./.gem.20250728-37947-sfn8mz/json/ext
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-7v8jhj sitelibdir\=./.gem.20250728-47900-7v8jhj install
+/opt/homebrew/bin/ginstall -c -m 0755 parser.bundle ./.gem.20250728-47900-7v8jhj/json/ext
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/json-2.13.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-sfn8mz sitelibdir\=./.gem.20250728-37947-sfn8mz clean
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-7v8jhj sitelibdir\=./.gem.20250728-47900-7v8jhj clean

@@ -26,17 +26,17 @@ checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
 creating Makefile
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/bigdecimal-3.2.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-rcjojk sitelibdir\=./.gem.20250728-37947-rcjojk clean
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-xyvd1n sitelibdir\=./.gem.20250728-47900-xyvd1n clean
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/bigdecimal-3.2.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-rcjojk sitelibdir\=./.gem.20250728-37947-rcjojk
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-xyvd1n sitelibdir\=./.gem.20250728-47900-xyvd1n
 compiling bigdecimal.c
 compiling missing.c
 linking shared-object bigdecimal.bundle
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/bigdecimal-3.2.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-rcjojk sitelibdir\=./.gem.20250728-37947-rcjojk install
-/opt/homebrew/bin/ginstall -c -m 0755 bigdecimal.bundle ./.gem.20250728-37947-rcjojk
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-xyvd1n sitelibdir\=./.gem.20250728-47900-xyvd1n install
+/opt/homebrew/bin/ginstall -c -m 0755 bigdecimal.bundle ./.gem.20250728-47900-xyvd1n
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/bigdecimal-3.2.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-rcjojk sitelibdir\=./.gem.20250728-37947-rcjojk clean
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-xyvd1n sitelibdir\=./.gem.20250728-47900-xyvd1n clean

@@ -14,10 +14,10 @@ checking for sys/resource.h... yes
 creating Makefile
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/nio4r-2.7.4/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-gu3ljp sitelibdir\=./.gem.20250728-37947-gu3ljp clean
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-9n8eom sitelibdir\=./.gem.20250728-47900-9n8eom clean
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/nio4r-2.7.4/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-gu3ljp sitelibdir\=./.gem.20250728-37947-gu3ljp
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-9n8eom sitelibdir\=./.gem.20250728-47900-9n8eom
 compiling bytebuffer.c
 compiling monitor.c
 compiling nio4r_ext.c
@@ -360,8 +360,8 @@ compiling selector.c
 linking shared-object nio4r_ext.bundle
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/nio4r-2.7.4/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-gu3ljp sitelibdir\=./.gem.20250728-37947-gu3ljp install
-/opt/homebrew/bin/ginstall -c -m 0755 nio4r_ext.bundle ./.gem.20250728-37947-gu3ljp
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-9n8eom sitelibdir\=./.gem.20250728-47900-9n8eom install
+/opt/homebrew/bin/ginstall -c -m 0755 nio4r_ext.bundle ./.gem.20250728-47900-9n8eom
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/nio4r-2.7.4/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-gu3ljp sitelibdir\=./.gem.20250728-37947-gu3ljp clean
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-9n8eom sitelibdir\=./.gem.20250728-47900-9n8eom clean

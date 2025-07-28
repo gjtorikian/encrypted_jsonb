@@ -3,17 +3,17 @@ current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby
 creating Makefile
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/debug-1.11.0/ext/debug
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-cfdxxw sitelibdir\=./.gem.20250728-37947-cfdxxw clean
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-1ulld2 sitelibdir\=./.gem.20250728-47900-1ulld2 clean
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/debug-1.11.0/ext/debug
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-cfdxxw sitelibdir\=./.gem.20250728-37947-cfdxxw
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-1ulld2 sitelibdir\=./.gem.20250728-47900-1ulld2
 compiling debug.c
 compiling iseq_collector.c
 linking shared-object debug/debug.bundle
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/debug-1.11.0/ext/debug
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-cfdxxw sitelibdir\=./.gem.20250728-37947-cfdxxw install
-/opt/homebrew/bin/ginstall -c -m 0755 debug.bundle ./.gem.20250728-37947-cfdxxw/debug
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-1ulld2 sitelibdir\=./.gem.20250728-47900-1ulld2 install
+/opt/homebrew/bin/ginstall -c -m 0755 debug.bundle ./.gem.20250728-47900-1ulld2/debug
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/debug-1.11.0/ext/debug
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-cfdxxw sitelibdir\=./.gem.20250728-37947-cfdxxw clean
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-1ulld2 sitelibdir\=./.gem.20250728-47900-1ulld2 clean

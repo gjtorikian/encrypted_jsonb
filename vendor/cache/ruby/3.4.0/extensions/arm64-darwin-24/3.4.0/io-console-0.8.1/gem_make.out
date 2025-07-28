@@ -16,16 +16,16 @@ checking for ttyname_r()... yes
 creating Makefile
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/io-console-0.8.1/ext/io/console
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-jizatg sitelibdir\=./.gem.20250728-37947-jizatg clean
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-pa1pwc sitelibdir\=./.gem.20250728-47900-pa1pwc clean
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/io-console-0.8.1/ext/io/console
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-jizatg sitelibdir\=./.gem.20250728-37947-jizatg
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-pa1pwc sitelibdir\=./.gem.20250728-47900-pa1pwc
 compiling console.c
 linking shared-object io/console.bundle
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/io-console-0.8.1/ext/io/console
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-jizatg sitelibdir\=./.gem.20250728-37947-jizatg install
-/opt/homebrew/bin/ginstall -c -m 0755 console.bundle ./.gem.20250728-37947-jizatg/io
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-pa1pwc sitelibdir\=./.gem.20250728-47900-pa1pwc install
+/opt/homebrew/bin/ginstall -c -m 0755 console.bundle ./.gem.20250728-47900-pa1pwc/io
 
 current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/io-console-0.8.1/ext/io/console
-make DESTDIR\= sitearchdir\=./.gem.20250728-37947-jizatg sitelibdir\=./.gem.20250728-37947-jizatg clean
+make DESTDIR\= sitearchdir\=./.gem.20250728-47900-pa1pwc sitelibdir\=./.gem.20250728-47900-pa1pwc clean
