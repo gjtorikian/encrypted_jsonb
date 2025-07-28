@@ -1,0 +1,18 @@
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/gjtorikian/.rbenv/versions/3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250728-55532-gk0x8j sitelibdir\=./.gem.20250728-55532-gk0x8j clean
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250728-55532-gk0x8j sitelibdir\=./.gem.20250728-55532-gk0x8j
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250728-55532-gk0x8j sitelibdir\=./.gem.20250728-55532-gk0x8j install
+/opt/homebrew/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20250728-55532-gk0x8j/racc
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250728-55532-gk0x8j sitelibdir\=./.gem.20250728-55532-gk0x8j clean
