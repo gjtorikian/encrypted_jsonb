@@ -1,0 +1,19 @@
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/stringio-3.1.7/ext/stringio
+/Users/gjtorikian/.rbenv/versions/3.4.1/bin/ruby extconf.rb
+checking for rb_io_mode_t in ruby/io.h... no
+creating Makefile
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/stringio-3.1.7/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250728-37947-6y16ko sitelibdir\=./.gem.20250728-37947-6y16ko clean
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/stringio-3.1.7/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250728-37947-6y16ko sitelibdir\=./.gem.20250728-37947-6y16ko
+compiling stringio.c
+linking shared-object stringio.bundle
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/stringio-3.1.7/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250728-37947-6y16ko sitelibdir\=./.gem.20250728-37947-6y16ko install
+/opt/homebrew/bin/ginstall -c -m 0755 stringio.bundle ./.gem.20250728-37947-6y16ko
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/stringio-3.1.7/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250728-37947-6y16ko sitelibdir\=./.gem.20250728-37947-6y16ko clean

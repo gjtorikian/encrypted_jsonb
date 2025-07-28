@@ -1,0 +1,19 @@
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+/Users/gjtorikian/.rbenv/versions/3.4.1/bin/ruby extconf.rb
+checking for rb_ext_ractor_safe() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250728-37947-ws9qjp sitelibdir\=./.gem.20250728-37947-ws9qjp clean
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250728-37947-ws9qjp sitelibdir\=./.gem.20250728-37947-ws9qjp
+compiling escape.c
+linking shared-object erb/escape.bundle
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250728-37947-ws9qjp sitelibdir\=./.gem.20250728-37947-ws9qjp install
+/opt/homebrew/bin/ginstall -c -m 0755 escape.bundle ./.gem.20250728-37947-ws9qjp/erb
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250728-37947-ws9qjp sitelibdir\=./.gem.20250728-37947-ws9qjp clean

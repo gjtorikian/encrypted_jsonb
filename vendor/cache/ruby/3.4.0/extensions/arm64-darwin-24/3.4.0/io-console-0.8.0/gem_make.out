@@ -1,0 +1,31 @@
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/io-console-0.8.0/ext/io/console
+/Users/gjtorikian/.rbenv/versions/3.4.1/bin/ruby extconf.rb
+checking for rb_syserr_fail_str(0, Qnil)... yes
+checking for rb_interned_str_cstr()... yes
+checking for rb_io_path()... yes
+checking for rb_io_descriptor()... yes
+checking for rb_io_get_write_io()... yes
+checking for rb_io_closed_p()... yes
+checking for rb_io_open_descriptor()... yes
+checking for rb_ractor_local_storage_value_newkey()... yes
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... yes
+checking for ttyname_r()... yes
+creating Makefile
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/io-console-0.8.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20250728-18109-nw9d8c sitelibdir\=./.gem.20250728-18109-nw9d8c clean
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/io-console-0.8.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20250728-18109-nw9d8c sitelibdir\=./.gem.20250728-18109-nw9d8c
+compiling console.c
+linking shared-object io/console.bundle
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/io-console-0.8.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20250728-18109-nw9d8c sitelibdir\=./.gem.20250728-18109-nw9d8c install
+/opt/homebrew/bin/ginstall -c -m 0755 console.bundle ./.gem.20250728-18109-nw9d8c/io
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/io-console-0.8.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20250728-18109-nw9d8c sitelibdir\=./.gem.20250728-18109-nw9d8c clean

@@ -1,0 +1,18 @@
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+/Users/gjtorikian/.rbenv/versions/3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250728-18109-mcakxh sitelibdir\=./.gem.20250728-18109-mcakxh clean
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250728-18109-mcakxh sitelibdir\=./.gem.20250728-18109-mcakxh
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250728-18109-mcakxh sitelibdir\=./.gem.20250728-18109-mcakxh install
+/opt/homebrew/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20250728-18109-mcakxh
+
+current directory: /Users/gjtorikian/Developer/encrypted_jsonb/vendor/cache/ruby/3.4.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250728-18109-mcakxh sitelibdir\=./.gem.20250728-18109-mcakxh clean
